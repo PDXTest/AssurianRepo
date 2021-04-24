@@ -18,5 +18,17 @@ public class Login {
 		System.out.println("This is Deom1");
 	}
 	
+
+	private void syso12() {
+		System.out.println("This is Deom");
+		System.out.println("This is Deom1");
+	}
+	
+	private void syso22() {
+		System.out.println("This is Deom");
+		System.out.println("This is Deom1");
+	}
+	
+	
 	
 }
