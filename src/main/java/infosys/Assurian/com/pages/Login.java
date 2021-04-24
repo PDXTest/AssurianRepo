@@ -33,5 +33,8 @@ public class Login {
 		System.out.println("This is Deom");
 		System.out.println("This is Deom1");
 	}
-	
+	private void DONMinakshinrrrrrrr() {
+		System.out.println("This is Deom");
+		System.out.println("This is Deom1");
+	}
 }
