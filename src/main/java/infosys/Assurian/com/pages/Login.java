@@ -24,7 +24,7 @@ public class Login {
 		System.out.println("This is Deom1");
 	}
 	
-	private void syso22() {
+	private void syso25656() {
 		System.out.println("This is Deom");
 		System.out.println("This is Deom1");
 	}
