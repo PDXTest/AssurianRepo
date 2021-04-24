@@ -29,7 +29,7 @@ public class Login {
 		System.out.println("This is Deom1");
 	}
 	
-	private void DON() {
+	private void DONMinakshi() {
 		System.out.println("This is Deom");
 		System.out.println("This is Deom1");
 	}
