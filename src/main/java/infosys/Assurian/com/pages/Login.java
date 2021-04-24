@@ -11,5 +11,10 @@ public class Login {
 		System.out.println("This is Dharma");
 
 	}
+	
+	private void syso13456789() {
+		System.out.println("This is Dharma");
+
+	}
 
 }
