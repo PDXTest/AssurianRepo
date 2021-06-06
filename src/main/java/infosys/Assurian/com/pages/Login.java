@@ -17,6 +17,7 @@ public class Login {
 	
 	private void syso13456789() {
 		System.out.println("This is Dharma");
+		System.out.println("This is Dharma");
 
 	}
 
